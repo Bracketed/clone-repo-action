@@ -44,7 +44,7 @@ cd <repository-name>
 
 ## Licensed
 
-☞ This repository uses the [Apache License 2.0](https://github.com/GuillaumeFalourd/aws-cliaction/blob/main/LICENSE)
+This repository uses the [Apache License 2.0](https://github.com/Bracketed/clone-repo-action/blob/main/LICENSE)
 
 ## Forked from - Original
 
